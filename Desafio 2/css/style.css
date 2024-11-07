@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+}
+
+.batman {
+    background-color: #313A89;
+    height: 200px;
+    text-align: center;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 60px;
+    text-align: center;
+    word-spacing: 10px;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.espacio-arriba {
+    display: block;
+    height: 150px;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+
+.formacion {
+    list-style-type: none;
+}
+
+.experiencia {
+    list-style-type: none;
+}
+
+ul {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+dd {
+    padding-left: 80px;
+}
+
+.pie-pagina {
+    
+    background-color: #005677;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    height: 37px;
+    text-align: center;
+}

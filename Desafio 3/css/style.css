@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;  
+}
+
+.rectangulo {
+    display: block;
+    background-color: #A664FF;
+    height: 18px;   
+}
+
+.group-10 {
+    display: inline-block;
+    padding-left: 17%;
+    padding-top: 2%;
+    size: 57px;
+    font-family: Lato. Arial, Helvetica, sans-serif;
+    font-size: 28.85px;
+    
+}
+
+.image {
+    padding: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 57.4px;
+    color: #020617;
+    font-weight: 700;
+    padding-left: 400px;
+    padding-bottom: 80px;
+    font-family: Inter, Arial, Helvetica, sans-serif
+}
+
+.texto {
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 200px;
+    font-size: 49.2px;
+    color: #64748B;
+    padding-right: 200px;
+    font-family: Inter, Arial, Helvetica, sans-serif
+}
